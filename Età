@@ -1,0 +1,3 @@
+eta = input("Quanti anni hai? ")
+eta = int(eta)
+print("Il doppio della tua età è:", eta * 2)
